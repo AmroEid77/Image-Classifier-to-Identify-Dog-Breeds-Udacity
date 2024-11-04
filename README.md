@@ -31,13 +31,6 @@ pip install torch torchvision Pillow==7.1.2
    deactivate
    ```
 
-### Navigate to the Application Folder
-
-Change to the application directory:
-
-```bash
-cd intropyproject-classify-pet-images
-```
 
 ### Run the Application
 
